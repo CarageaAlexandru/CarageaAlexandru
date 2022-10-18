@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Caragea Alexandru</h1>
+
 <h3 align="center">A passionate software developer based in London.</h3>
+<h3 align="center">I am positive, innovative, results-driven Junior Software Developer with 2 years of experience and who takes pride in the ability to effectively combine workplace objectives with personal and professional goals. Adept at solving various technical problems with practical solutions using various types of computer software.
+Enjoys working with a team to overcome obstacles and challenges.</h3>
 
 - 🔭 I’m currently working on [Nc-News-backend](https://github.com/CarageaAlexandru/News-Project-Backend)
 
