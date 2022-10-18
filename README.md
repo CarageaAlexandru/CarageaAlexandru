@@ -12,7 +12,7 @@ Enjoys working with a team to overcome obstacles and challenges.</h3>
 
 <h3  align="left">Connect with me:</h3>
 <p  align="left">
-<a  href="https://www.linkedin.com/in/carageaalexandru/"  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2.svg?logo=linkedin&style=flat-square" /></a>
+<a  href="https://www.linkedin.com/in/carageaalexandru/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2.svg?logo=linkedin&style=flat-square" /></a>
 </p>
 
 <h3  align="left">Languages and Tools:</h3>
